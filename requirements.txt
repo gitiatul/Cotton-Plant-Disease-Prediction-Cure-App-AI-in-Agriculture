@@ -2,6 +2,7 @@ flask==2.0.1
 numpy==1.20.3
 pandas==1.2.4
 keras==2.4.3
+tensorflow
 scikit-learn==0.24.2
 gunicorn==20.1.0
 Jinja2==3.0.1
