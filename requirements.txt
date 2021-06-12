@@ -1,10 +1,6 @@
 flask
-numpy
-pandas
 keras
 tensorflow
-scikit-learn
 gunicorn
 Jinja2
 streamlit
-pickle5
