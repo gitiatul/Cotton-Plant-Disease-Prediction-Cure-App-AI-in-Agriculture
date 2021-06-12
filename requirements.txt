@@ -2,7 +2,6 @@ flask
 keras
 Keras-Preprocessing
 keras-models
-tensorflow
 gunicorn
 Jinja2
 streamlit
